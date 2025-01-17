@@ -5,6 +5,7 @@
 For a more advanced version of this project with server-side management, an admin panel, and additional functionalities, check out the redeveloped version using webforms: [OutModern_Webform](https://github.com/zkgan03/OutModern_Webform).
 
 > For the **User Interface Overview**, please refer to : [OutModern_Webform](https://github.com/zkgan03/OutModern_Webform)
+> <br/> **NOTE** : It has slightly different UI compared to this version
 
 ## How to run
 
